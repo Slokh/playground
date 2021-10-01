@@ -16,7 +16,7 @@ const injectedConnector = new InjectedConnector({
   ],
 });
 
-const address = "0x88b48f654c30e99bc2e4a1559b4dcf1ad93fa656";
+const address = "0x495f947276749ce646f68ac8c248420045cb7b5e";
 const abi = [
   "function setURI(uint256 _id, string memory _uri)",
   "function uri(uint256 id) public view returns (string)",
